@@ -12,16 +12,22 @@ namespace ThuchanhMVC
 
 			// Add services to the container.
 			builder.Services.AddControllersWithViews();
-			var connectionString = builder.Configuration.GetConnectionString("QlbanVaLiContext");
+			var connectionString = builder.Configuration.GetConnectionString("QlBanVaLiContext");
 			builder.Services.AddDbContext<QlbanVaLiContext>(x=>x.UseSqlServer(connectionString));
 
 			builder.Services.AddScoped<ILoaiSpRepository, LoaiSpRepository>();
 			builder.Services.AddSession();
 
+            builder.Services.AddDistributedMemoryCache();
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30);
+                options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
+            });
 
 
-
-			var app = builder.Build();
+            var app = builder.Build();
 
 			// Configure the HTTP request pipeline.
 			if (!app.Environment.IsDevelopment())
@@ -31,7 +37,10 @@ namespace ThuchanhMVC
 				app.UseHsts();
 			}
 
-			app.UseHttpsRedirection();
+
+            app.UseSession();
+
+            app.UseHttpsRedirection();
 			app.UseStaticFiles();
 
 			app.UseRouting();

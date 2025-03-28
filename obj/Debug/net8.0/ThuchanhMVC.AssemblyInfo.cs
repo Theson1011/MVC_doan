@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThuchanhMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1012f7c8e3ae3826b588a4b29182ebb7de3f8eb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThuchanhMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThuchanhMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

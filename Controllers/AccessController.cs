@@ -24,29 +24,36 @@ namespace ThuchanhMVC.Controllers
         [HttpPost]
         public IActionResult Login(TUser user)
         {
-            if (HttpContext.Session.GetString("UserName") == null)
-            {
-                var u = db.TUsers
-    .AsNoTracking()
-    .Where(x => x.Username == user.Username && x.Password == user.Password)
-    .FirstOrDefault();
+            var u = db.TUsers
+                .AsNoTracking()
+                .Where(x => x.Username == user.Username && x.Password == user.Password)
+                .FirstOrDefault();
 
-                if (u != null)
+            if (u != null)
+            {
+                Response.Cookies.Append("UserName", u.Username, new CookieOptions
                 {
-                    HttpContext.Session.SetString("UserName", u.Username.ToString());
+                    Expires = DateTimeOffset.Now.AddMinutes(30),
+                    HttpOnly = true // Tăng bảo mật
+                });
+                if (u.LoaiUser == 1)
+                {
+                    return RedirectToAction("Index", "HomeAdmin");
+                }
+                else if (u.LoaiUser == 0)
+                {
                     return RedirectToAction("Index", "Home");
                 }
+                return RedirectToAction("Index", "Home");
             }
             return View();
-
         }
 
+        [HttpGet] // Dùng GET cho đơn giản
         public IActionResult Logout()
         {
-            HttpContext.Session.Clear();
-            HttpContext.Session.Remove("UserName");
+            Response.Cookies.Delete("UserName");
             return RedirectToAction("Login", "Access");
         }
-
     }
 }

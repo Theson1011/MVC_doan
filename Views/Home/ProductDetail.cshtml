@@ -12,8 +12,16 @@
             <div class="col-lg-6 col-md-6">
                 <div class="product__details__pic">
                     <div class="product__details__pic__item">
-                        <img class="product__details__pic__item--large"
-                             src="@Url.Content("../ProductsImages/Images/"+Model.danhMucSp.AnhDaiDien)" alt="">
+                        @if (Model?.danhMucSp?.AnhDaiDien != null)
+                        {
+                            <img class="product__details__pic__item--large"
+                                 src="@Url.Content("../ProductsImages/Images/" + Model.danhMucSp.AnhDaiDien)" alt="">
+                        }
+                        else
+                        {
+                            <p>Hình ảnh không có sẵn</p>
+                        }
+
                     </div>
                     <div class="product__details__pic__slider owl-carousel">
                         @foreach (var image in Model.anhSps)

@@ -29,16 +29,16 @@ namespace ThuchanhMVC.Controllers
         [HttpGet("{maloai}")]
         public IEnumerable<Product> GetProductsByCategory(string maloai)
         {
-            var sanPham = (from p in db.TDanhMucSps
-                           where p.MaLoai == maloai
-                           select new Product
-                           {
-                               MaSp = p.MaSp,
-                               TenSp = p.TenSp,
-                               MaLoai = p.MaLoai,
-                               AnhDaiDien = p.AnhDaiDien,
-                               GiaNhoNhat = p.GiaNhoNhat
-                           }).ToList();
+            var sanPham = db.TDanhMucSps  // Đổi thành bảng chứa danh sách sản phẩm
+                        .Where(p => p.MaLoai == maloai)
+                        .Select(p => new Product
+                        {
+                            MaSp = p.MaSp,
+                            TenSp = p.TenSp,
+                            MaLoai = p.MaLoai,
+                            AnhDaiDien = p.AnhDaiDien,
+                            GiaNhoNhat = p.GiaNhoNhat
+                        }).ToList();
             return sanPham;
         }
     }

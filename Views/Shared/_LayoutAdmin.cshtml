@@ -57,7 +57,7 @@
                                 <i class="mdi mdi-cached me-2 text-success"></i> Activity Log
                             </a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">
+                            <a asp-controller="Access" asp-action="Logout" class="dropdown-item">
                                 <i class="mdi mdi-logout me-2 text-primary"></i> Signout
                             </a>
                         </div>
@@ -204,7 +204,7 @@
                         </a>
                         <div class="collapse" id="ui-basic">
                             <ul class="nav flex-column sub-menu">
-                                <li class="nav-item"> <a class="nav-link" asp-area="admin" asp-controller="HomeAdmin" asp-action="DanhMucSanPham">Danh muc san pham</a></li>
+                                <li class="nav-item"> <a class="nav-link" asp-controller="HomeAdmin" asp-action="DanhMucSanPham">Danh muc san pham</a></li>
                                 <li class="nav-item"> <a class="nav-link" href="../../pages/ui-features/typography.html">Typography</a></li>
                             </ul>
                         </div>

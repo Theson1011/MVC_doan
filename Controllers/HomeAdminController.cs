@@ -4,14 +4,13 @@ using Microsoft.EntityFrameworkCore;
 using ThuchanhMVC.Models;
 using X.PagedList;
 
-namespace ThuchanhMVC.Areas.Admin.Controllers
+namespace ThuchanhMVC.Controllers
 {
-    [Area("admin")]
-    [Route("admin")]
-    [Route("admin/homeadmin")]
+
+    [Route("HomeAdmin")]
     public class HomeAdminController : Controller
     {
-        QlbanVaLiContext db=new QlbanVaLiContext();
+        QlbanVaLiContext db = new QlbanVaLiContext();
         [Route("")]
         [Route("index")]
 
@@ -23,7 +22,7 @@ namespace ThuchanhMVC.Areas.Admin.Controllers
 
         public IActionResult DanhMucSanPham(int? page)
         {
-            int pageSize = 12;  
+            int pageSize = 12;
             int pageNumber = page == null || page < 0 ? 1 : page.Value;
             var lstsanpham = db.TDanhMucSps.AsNoTracking().OrderBy(x => x.TenSp);
             PagedList<TDanhMucSp> lst = new PagedList<TDanhMucSp>(lstsanpham, pageNumber, pageSize);
@@ -44,9 +43,10 @@ namespace ThuchanhMVC.Areas.Admin.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
 
-        public IActionResult ThemSanPhamMoi(TDanhMucSp sanPham )
+        public IActionResult ThemSanPhamMoi(TDanhMucSp sanPham)
         {
-            if (ModelState.IsValid) {
+            if (ModelState.IsValid)
+            {
                 db.TDanhMucSps.Add(sanPham);
                 db.SaveChanges();
                 return RedirectToAction("DanhMucSanPham");
@@ -64,7 +64,7 @@ namespace ThuchanhMVC.Areas.Admin.Controllers
             ViewBag.MaNuocSx = new SelectList(db.TQuocGia.ToList(), "MaNuoc", "TenNuoc");
             ViewBag.MaLoai = new SelectList(db.TLoaiSps.ToList(), "MaLoai", "Loai");
             ViewBag.MaDt = new SelectList(db.TLoaiDts.ToList(), "MaDt", "TenLoai");
-            var sanPham=db.TDanhMucSps.Find(maSanPham);
+            var sanPham = db.TDanhMucSps.Find(maSanPham);
             return View(sanPham);
         }
         [Route("SuaSanPham")]
@@ -75,7 +75,7 @@ namespace ThuchanhMVC.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Entry(sanPham).State = EntityState.Modified; 
+                db.Entry(sanPham).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("DanhMucSanPham", "HomeAdmin");
             }
