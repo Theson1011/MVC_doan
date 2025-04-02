@@ -25,7 +25,116 @@
 
 </head>
 
+
+<div id="chat-icon" onclick="toggleChat()">
+    <img src="https://img.icons8.com/ios/50/000000/chat.png" alt="Chat" />
+</div>
+
+
+<div id="chat-container" style="display:none;">
+    <div id="chatbox"></div>
+    <input type="text" id="userInput" placeholder="Hỏi tôi bất kỳ điều gì...">
+    <button onclick="sendMessage()">Gửi</button>
+    <button onclick="toggleChat()">Đóng</button>
+</div>
+
+<script>
+    
+    function toggleChat() {
+        var chatContainer = document.getElementById("chat-container");
+
+        
+        if (chatContainer.style.display === "none") {
+            chatContainer.style.display = "block";
+        } else {
+            
+            chatContainer.style.display = "none";
+        }
+    }
+
+  
+    async function sendMessage() {
+        let message = document.getElementById("userInput").value;
+
+        let response = await fetch('/Chat/GetChatResponse', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ message: message })
+        });
+
+        let data = await response.json();
+        let responseText = JSON.parse(data).choices[0].message.content;
+
+        // Hiển thị tin nhắn người dùng và phản hồi của chatbot
+        document.getElementById("chatbox").innerHTML += "<p><b>Bạn:</b> " + message + "</p>";
+        document.getElementById("chatbox").innerHTML += "<p><b>AI:</b> " + responseText + "</p>";
+
+        document.getElementById("userInput").value = "";
+    }
+</script>
+
+<style>
+    /* Biểu tượng chat nhỏ ở góc dưới bên phải luôn hiển thị */
+    #chat-icon {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        width: 50px;
+        height: 50px;
+        background-color: aquamarine ;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        z-index: 1000;
+    }
+
+        #chat-icon img {
+            width: 30px;
+            height: 30px;
+        }
+
+    /* Chat container */
+    #chat-container {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        width: 300px;
+        height: 400px;
+        background-color: #f9f9f9;
+        border-radius: 10px;
+        padding: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        display: none; /* Ẩn chatbot mặc định */
+        z-index: 1000;
+    }
+
+    #chatbox {
+        height: 300px;
+        overflow-y: auto;
+        margin-bottom: 10px;
+        padding: 5px;
+        border: 1px solid #ddd;
+        background-color: #fff;
+    }
+
+    input {
+        width: 80%;
+        padding: 5px;
+    }
+
+    button {
+        width: 18%;
+        padding: 5px;
+    }
+</style>
+
+
+
+
 <body>
+
     <!-- Page Preloder -->
     <div id="preloder">
         <div class="loader"></div>
@@ -34,6 +143,7 @@
 
     <!-- Header Section Begin -->
     <header class="header">
+
         <div class="header__top">
             <div class="container">
                 <div class="row">
