@@ -476,6 +476,21 @@ public partial class QlbanVaLiContext : DbContext
                 .IsUnicode(false)
                 .IsFixedLength()
                 .HasColumnName("password");
+            entity.Property(e => e.Email)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .IsFixedLength()
+                .HasColumnName("email");
+            entity.Property(e => e.PhoneNumber)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .IsFixedLength()
+                .HasColumnName("phone_number");
+            entity.Property(e => e.Address)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .IsFixedLength()
+                .HasColumnName("address");
         });
 
         OnModelCreatingPartial(modelBuilder);

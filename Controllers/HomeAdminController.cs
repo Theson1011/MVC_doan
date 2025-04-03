@@ -19,10 +19,10 @@ namespace ThuchanhMVC.Controllers
             return View();
         }
         [Route("danhmucsanpham")]
-
+        [HttpGet]
         public IActionResult DanhMucSanPham(int? page)
         {
-            int pageSize = 12;
+            int pageSize = 10;
             int pageNumber = page == null || page < 0 ? 1 : page.Value;
             var lstsanpham = db.TDanhMucSps.AsNoTracking().OrderBy(x => x.TenSp);
             PagedList<TDanhMucSp> lst = new PagedList<TDanhMucSp>(lstsanpham, pageNumber, pageSize);
@@ -99,5 +99,10 @@ namespace ThuchanhMVC.Controllers
             TempData["Message"] = "Sản phẩm đã được xóa";
             return RedirectToAction("DanhMucSanPham", "HomeAdmin");
         }
+
+
+       
+
+
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.CodeAnalysis.Scripting;
 using Microsoft.EntityFrameworkCore;
 using ThuchanhMVC.Models;
 
@@ -8,7 +9,6 @@ namespace ThuchanhMVC.Controllers
     {
         QlbanVaLiContext db=new QlbanVaLiContext();
         [HttpGet]
-
         public IActionResult Login()
         {
             if (HttpContext.Session.GetString("UserName") == null)
@@ -36,11 +36,11 @@ namespace ThuchanhMVC.Controllers
                     Expires = DateTimeOffset.Now.AddMinutes(30),
                     HttpOnly = true // Tăng bảo mật
                 });
-                if (u.LoaiUser == 1)
+                if (u.LoaiUser == 0)
                 {
                     return RedirectToAction("Index", "HomeAdmin");
                 }
-                else if (u.LoaiUser == 0)
+                else if (u.LoaiUser == 1)
                 {
                     return RedirectToAction("Index", "Home");
                 }
@@ -48,6 +48,10 @@ namespace ThuchanhMVC.Controllers
             }
             return View();
         }
+
+       
+
+
 
         [HttpGet] // Dùng GET cho đơn giản
         public IActionResult Logout()
