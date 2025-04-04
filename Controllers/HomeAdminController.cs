@@ -101,7 +101,18 @@ namespace ThuchanhMVC.Controllers
         }
 
 
-       
+        [Route("danhsachnguoidung")]
+        [HttpGet]
+        public IActionResult Danhsachnguoidung(int? page)
+        {
+            int pageSize = 10;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var lstuser = db.TUsers.AsNoTracking().OrderBy(x => x.Username);
+            PagedList<TUser> lst = new PagedList<TUser>(lstuser, pageNumber, pageSize);
+            return View(lst);
+        }
+
+
 
 
     }
