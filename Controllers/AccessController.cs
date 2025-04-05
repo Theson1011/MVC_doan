@@ -49,7 +49,38 @@ namespace ThuchanhMVC.Controllers
             return View();
         }
 
-       
+        [HttpGet]
+        public IActionResult SignUp()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult SignUp(TUser newUser)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(newUser); // Hiển thị lại form với thông báo lỗi
+            }
+            // Kiểm tra username đã tồn tại chưa
+            var existingUser = db.TUsers.FirstOrDefault(x => x.Username == newUser.Username);
+            if (existingUser != null)
+            {
+                TempData["Error"] = "Sign Up fail! Because Username is exist.";
+                return RedirectToAction("SignUp");
+            }
+            newUser.LoaiUser = 1;
+            // Thêm người dùng mới vào database
+            db.TUsers.Add(newUser);
+            db.SaveChanges();
+
+            TempData["Success"] = "Sign Up successfully!";
+
+
+            return RedirectToAction("SignUp");
+        }
+
+
 
 
 
