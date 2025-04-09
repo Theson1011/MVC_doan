@@ -13,14 +13,15 @@ namespace ThuchanhMVC.Controllers
 {
     public class ChatController : Controller
     {
-        private readonly string _apiKey = "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";
+        private readonly string _apiKey;
         private readonly string _apiUrl = "https://api.openai.com/v1/chat/completions";
         private readonly QlbanVaLiContext db;
         private static string _lastResponse = null;
 
-        public ChatController(QlbanVaLiContext context)
+        public ChatController(QlbanVaLiContext context, IConfiguration configuration)
         {
             db = context;
+            _apiKey = configuration["OpenAI:ApiKey"];
         }
 
         [HttpPost]
