@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|c:\\users\\admin\\source\\repos\\qlbanvali\\mvc-dotnet\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|c:\\users\\admin\\source\\repos\\qlbanvali\\mvc-dotnet\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -238,7 +238,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 61,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -269,6 +269,10 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "HomeAdminController.cs",
@@ -278,12 +282,7 @@
               "RelativeToolTip": "Controllers\\HomeAdminController.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAAAC0AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T08:59:52.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-04-09T08:59:52.717Z"
             },
             {
               "$type": "Document",
@@ -407,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -428,8 +427,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T16:28:18.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T16:28:18.215Z"
             },
             {
               "$type": "Document",
@@ -913,13 +911,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ChatController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\ChatController.cs",
               "RelativeToolTip": "Controllers\\ChatController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCYAAABDAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T08:50:06.218Z",
               "EditorCaption": ""
