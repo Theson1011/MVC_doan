@@ -11,6 +11,7 @@ namespace ThuchanhMVC.Controllers
     public class ProductAPIController : ControllerBase
     {
         QlbanVaLiContext db = new QlbanVaLiContext();
+
         [HttpGet]
         public IEnumerable<Product> GetAllProducts()
         {
@@ -21,7 +22,7 @@ namespace ThuchanhMVC.Controllers
                                TenSp = p.TenSp,
                                MaLoai = p.MaLoai,
                                AnhDaiDien = p.AnhDaiDien,
-                               GiaNhoNhat = p.GiaNhoNhat
+                               DonGia = p.DonGia
                            }).ToList();
             return sanPham;
         }
@@ -29,7 +30,7 @@ namespace ThuchanhMVC.Controllers
         [HttpGet("{maloai}")]
         public IEnumerable<Product> GetProductsByCategory(string maloai)
         {
-            var sanPham = db.TDanhMucSps  // Đổi thành bảng chứa danh sách sản phẩm
+            var sanPham = db.TDanhMucSps
                         .Where(p => p.MaLoai == maloai)
                         .Select(p => new Product
                         {
@@ -37,9 +38,32 @@ namespace ThuchanhMVC.Controllers
                             TenSp = p.TenSp,
                             MaLoai = p.MaLoai,
                             AnhDaiDien = p.AnhDaiDien,
-                            GiaNhoNhat = p.GiaNhoNhat
+                            DonGia = p.DonGia
                         }).ToList();
             return sanPham;
         }
+
+        //// Updated endpoint to support count parameter
+        //[HttpGet("budget/{budgetUSD}/{count=5}")]
+        //public IEnumerable<Product> GetProductsUnderBudget(decimal budgetUSD, int count = 5)
+        //{
+        //    // Set a reasonable maximum to prevent performance issues
+        //    if (count > 20) count = 20;
+
+        //    var sanPham = db.TDanhMucSps
+        //        .Where(p => p.DonGia.HasValue && p.DonGia <= budgetUSD)
+        //        .OrderByDescending(p => p.DonGia)
+        //        .Take(count)
+        //        .Select(p => new Product
+        //        {
+        //            MaSp = p.MaSp,
+        //            TenSp = p.TenSp,
+        //            MaLoai = p.MaLoai,
+        //            AnhDaiDien = p.AnhDaiDien,
+        //            DonGia = p.DonGia
+        //        }).ToList();
+
+        //    return sanPham;
+        //}
     }
 }

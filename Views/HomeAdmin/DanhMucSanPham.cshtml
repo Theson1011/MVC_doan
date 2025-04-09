@@ -36,10 +36,7 @@
             </th>
           
             <th>
-                Giá Nhỏ Nhất
-            </th>
-            <th>
-                Giá Lơn Nhất
+                Đơn Giá
             </th>
           
             <th></th>
@@ -75,11 +72,9 @@
         
           
             <td>
-                @Html.DisplayFor(modelItem => item.GiaNhoNhat)
+                @Html.DisplayFor(modelItem => item.DonGia)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.GiaLonNhat)
-            </td>
+           
            
             <td>
                 <a asp-action="SuaSanPham" asp-route-maSanPham="@item.MaSp">Edit</a> |

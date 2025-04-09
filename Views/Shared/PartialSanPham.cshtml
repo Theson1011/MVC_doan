@@ -11,7 +11,7 @@
         </div>
         <div class="featured__item__text">
             <h6><a asp-controller="Home" asp-action="ProductDetail" asp-route-maSp="@Model.MaSp">@Model.TenSp</a></h6>
-            <h5>@Model.GiaLonNhat</h5>
+            <h5>@Model.DonGia.ToString("C2", new System.Globalization.CultureInfo("en-US"))</h5>
         </div>
     </div>
 </div>

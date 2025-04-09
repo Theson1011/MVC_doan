@@ -31,11 +31,20 @@ namespace ThuchanhMVC.Controllers
 
             if (u != null)
             {
-                Response.Cookies.Append("UserName", u.Username, new CookieOptions
+                // Thiết lập options cho cookie
+                var cookieOptions = new CookieOptions   
                 {
                     Expires = DateTimeOffset.Now.AddMinutes(30),
-                    HttpOnly = true // Tăng bảo mật
-                });
+                    HttpOnly = true // Bảo mật: Không thể truy cập bằng JavaScript
+                };
+
+                // Lưu các thông tin cần thiết vào cookie
+                Response.Cookies.Append("UserName", u.Username, cookieOptions);
+                Response.Cookies.Append("Email", u.Email, cookieOptions);
+                Response.Cookies.Append("PhoneNumber", u.PhoneNumber, cookieOptions);
+                Response.Cookies.Append("Address", u.Address, cookieOptions);
+
+                // Điều hướng theo loại người dùng
                 if (u.LoaiUser == 0)
                 {
                     return RedirectToAction("Index", "HomeAdmin");
@@ -44,12 +53,46 @@ namespace ThuchanhMVC.Controllers
                 {
                     return RedirectToAction("Index", "Home");
                 }
+
                 return RedirectToAction("Index", "Home");
             }
+
             return View();
         }
 
-       
+
+        [HttpGet]
+        public IActionResult SignUp()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult SignUp(TUser newUser)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(newUser); // Hiển thị lại form với thông báo lỗi
+            }
+            // Kiểm tra username đã tồn tại chưa
+            var existingUser = db.TUsers.FirstOrDefault(x => x.Username == newUser.Username);
+            if (existingUser != null)
+            {
+                TempData["Error"] = "Sign Up fail! Because Username is exist.";
+                return RedirectToAction("SignUp");
+            }
+            newUser.LoaiUser = 1;
+            // Thêm người dùng mới vào database
+            db.TUsers.Add(newUser);
+            db.SaveChanges();
+
+            TempData["Success"] = "Sign Up successfully!";
+
+
+            return RedirectToAction("SignUp");
+        }
+
+
 
 
 

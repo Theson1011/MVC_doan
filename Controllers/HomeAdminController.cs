@@ -101,7 +101,29 @@ namespace ThuchanhMVC.Controllers
         }
 
 
-       
+        [Route("danhsachnguoidung")]
+        [HttpGet]
+        public IActionResult Danhsachnguoidung(int? page)
+        {
+            int pageSize = 10;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var lstuser = db.TUsers.AsNoTracking().OrderBy(x => x.Username);
+            PagedList<TUser> lst = new PagedList<TUser>(lstuser, pageNumber, pageSize);
+            return View(lst);
+        }
+
+        [Route("danhsachcheckout")]
+        [HttpGet]
+        public IActionResult Danhsachcheckout(int? page)
+        {
+            int pageSize = 10;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var lstuser = db.Checkouts.AsNoTracking().OrderBy(x => x.Username);
+            PagedList<Checkout> lst = new PagedList<Checkout>(lstuser, pageNumber, pageSize);
+            return View(lst);
+        }
+
+
 
 
     }
