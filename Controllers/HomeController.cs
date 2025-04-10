@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using ThuchanhMVC.Models;
@@ -10,7 +10,7 @@ namespace ThuchanhMVC.Controllers
 {
 	public class HomeController : Controller
 	{
-		QlbanVaLiContext db=new QlbanVaLiContext();
+		QlbanVaLiContext db = new QlbanVaLiContext();
 		private readonly ILogger<HomeController> _logger;
 
 		public HomeController(ILogger<HomeController> logger)
@@ -60,26 +60,71 @@ namespace ThuchanhMVC.Controllers
             return View(sanPham); 
         }
 
-        public ActionResult ProductDetail(string maSp)
+      
+        public IActionResult ProductDetail(string MaSp)
         {
-            var sanPham = db.TDanhMucSps.SingleOrDefault(x => x.MaSp == maSp);
-            var anhSanPham = db.TAnhSps.Where(x => x.MaSp == maSp).ToList();
-            var homeProductDetailViewModel = new HomeProductDetailViewModel
+            var product = db.TDanhMucSps
+                .Include(p => p.TAnhSps)
+                .FirstOrDefault(p => p.MaSp == MaSp);
+
+            if (product == null) return NotFound();
+
+            var viewModel = new HomeProductDetailViewModel
             {
-                danhMucSp = sanPham,
-                anhSps = anhSanPham
+                danhMucSp = product,
+                anhSps = product.TAnhSps.ToList()
             };
-            return View(homeProductDetailViewModel);
+
+            return View(viewModel);
         }
+
+
         public IActionResult Privacy()
 		{
 			return View();
 		}
 
-		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
 		public IActionResult Error()
 		{
 			return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
 		}
-	}
+
+        [HttpGet]
+        public IActionResult Profile()
+        {
+            var model = new TUser
+            {
+                Username = Request.Cookies["UserName"],
+                Email = Request.Cookies["Email"],
+                PhoneNumber = Request.Cookies["PhoneNumber"],
+                Address = Request.Cookies["Address"]
+            };
+
+            return View(model);
+        }
+
+        [HttpPost]
+        public IActionResult Profile(TUser updatedUser)
+        {
+            var userInDb = db.TUsers.FirstOrDefault(x => x.Username == updatedUser.Username);
+            if (userInDb != null)
+            {
+                userInDb.Email = updatedUser.Email;
+                userInDb.PhoneNumber = updatedUser.PhoneNumber;
+                userInDb.Address = updatedUser.Address;
+
+                db.SaveChanges();
+
+                // Cập nhật lại cookies
+                Response.Cookies.Append("Email", updatedUser.Email);
+                Response.Cookies.Append("PhoneNumber", updatedUser.PhoneNumber);
+                Response.Cookies.Append("Address", updatedUser.Address);
+
+                ViewBag.Message = "Update successfull!";
+            }
+            return RedirectToAction("Profile", updatedUser);
+        }
+
+    }
 }

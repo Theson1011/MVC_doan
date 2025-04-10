@@ -1,6 +1,6 @@
 /* Sidebar */
 
-.sidebar {
+/*.sidebar {
   min-height: calc(100vh - #{$navbar-height});
   background: $sidebar-light-bg;
   font-family: $type1-regular;
@@ -219,10 +219,10 @@
       }
     }
   }
-}
+}*/
 
 /* style for off-canvas menu*/
-@media screen and (max-width: 991px) {
+/*@media screen and (max-width: 991px) {
   .sidebar-offcanvas {
     position: fixed;
     max-height: calc(100vh - #{$navbar-height});
@@ -237,4 +237,4 @@
       right: 0;
     }
   }
-}
+}*/

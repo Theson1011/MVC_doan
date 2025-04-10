@@ -3,179 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\viewmodels\\homeproductdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:viewmodels\\homeproductdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|c:\\users\\admin\\source\\repos\\qlbanvali\\mvc-dotnet\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\thuchanhmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:thuchanhmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\layoutogani\\img\\luggage.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:wwwroot\\layoutogani\\img\\luggage.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\layoutogani\\img\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:wwwroot\\layoutogani\\img\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\layoutogani\\img\\logonew1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:wwwroot\\layoutogani\\img\\logonew1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\layoutogani\\img\\cart\\cart-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:wwwroot\\layoutogani\\img\\cart\\cart-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\layoutogani\\img\\blog\\blog-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:wwwroot\\layoutogani\\img\\blog\\blog-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\layoutadmin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:wwwroot\\layoutadmin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|c:\\users\\admin\\source\\repos\\qlbanvali\\mvc-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tquocgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tquocgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Downloads\\PurpleAdmin-Free-Admin-Template-master\\pages\\samples\\blank-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\homeadmin\\danhsachnguoidung.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\homeadmin\\danhsachnguoidung.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\repository\\loaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -186,35 +39,207 @@
       "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:repository\\iloaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Downloads\\ogani-master\\shop-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tkichthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tkichthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\thoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\thoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\thangsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\thangsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tchitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tchitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tchitiethdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tchitiethdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tanhsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tanhsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tanhchitietsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tanhchitietsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tloaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tloaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tmausac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tmausac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\tnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\tnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\viewmodels\\homeproductdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:viewmodels\\homeproductdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\homeadmin\\danhsachcheckout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\homeadmin\\danhsachcheckout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\viewcomponents\\loaispmenuviewcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:viewcomponents\\loaispmenuviewcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\viewmodels\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:viewmodels\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\layoutadmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:wwwroot\\layoutadmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\layoutogani\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:wwwroot\\layoutogani\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\cart\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\cart\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\cart\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\cart\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\models\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:models\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C6908A0-4B62-4442-8377-CC8AC9822523}|ThuchanhMVC.csproj|solutionrelative:views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 167,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 19,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeProductDetailViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ViewModels\\HomeProductDetailViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\HomeProductDetailViewModel.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ViewModels\\HomeProductDetailViewModel.cs",
-              "RelativeToolTip": "ViewModels\\HomeProductDetailViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T07:57:04.436Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
@@ -244,472 +269,132 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductDetail.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\ProductDetail.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\ProductDetail.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\ProductDetail.cshtml",
-              "RelativeToolTip": "Views\\Home\\ProductDetail.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAowA4AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T08:06:02.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\ProductAPIController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductAPIController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\ProductAPIController.cs",
-              "RelativeToolTip": "Controllers\\ProductAPIController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAqwCIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:43:09.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QlbanVaLiContext.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\QlbanVaLiContext.cs",
-              "RelativeDocumentMoniker": "Models\\QlbanVaLiContext.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\QlbanVaLiContext.cs",
-              "RelativeToolTip": "Models\\QlbanVaLiContext.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAmwBsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T16:56:46.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeAdminController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\HomeAdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeAdminController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\HomeAdminController.cs",
-              "RelativeToolTip": "Controllers\\HomeAdminController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T08:26:21.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TDanhMucSp.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TDanhMucSp.cs",
-              "RelativeDocumentMoniker": "Models\\TDanhMucSp.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TDanhMucSp.cs",
-              "RelativeToolTip": "Models\\TDanhMucSp.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDcAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T18:34:35.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-26T08:16:05.628Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeAdminController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAC0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:59:52.717Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ThuchanhMVC.csproj",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ThuchanhMVC.csproj",
-              "RelativeDocumentMoniker": "ThuchanhMVC.csproj",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ThuchanhMVC.csproj",
-              "RelativeToolTip": "ThuchanhMVC.csproj",
+              "Title": "LoaiSpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Repository\\LoaiSpRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\LoaiSpRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Repository\\LoaiSpRepository.cs",
+              "RelativeToolTip": "Repository\\LoaiSpRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-25T16:30:29.163Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:48:42.734Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ILoaiSpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Repository\\ILoaiSpRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ILoaiSpRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Repository\\ILoaiSpRepository.cs",
+              "RelativeToolTip": "Repository\\ILoaiSpRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:48:41.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TKhachHang.cs",
+              "RelativeDocumentMoniker": "Models\\TKhachHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TKhachHang.cs",
+              "RelativeToolTip": "Models\\TKhachHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:48:36.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "THoaDonBan.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\THoaDonBan.cs",
+              "RelativeDocumentMoniker": "Models\\THoaDonBan.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\THoaDonBan.cs",
+              "RelativeToolTip": "Models\\THoaDonBan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:48:36.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "THangSx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\THangSx.cs",
+              "RelativeDocumentMoniker": "Models\\THangSx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\THangSx.cs",
+              "RelativeToolTip": "Models\\THangSx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:48:35.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TAnhSp.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TAnhSp.cs",
+              "RelativeDocumentMoniker": "Models\\TAnhSp.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TAnhSp.cs",
+              "RelativeToolTip": "Models\\TAnhSp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:48:33.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\ProductModels\\Product.cs",
               "RelativeDocumentMoniker": "Models\\ProductModels\\Product.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\ProductModels\\Product.cs",
               "RelativeToolTip": "Models\\ProductModels\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:49:32.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AccessController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\AccessController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccessController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\AccessController.cs",
-              "RelativeToolTip": "Controllers\\AccessController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAowCgAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T14:34:39.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SanPhamTheoLoai.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\SanPhamTheoLoai.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\SanPhamTheoLoai.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\SanPhamTheoLoai.cshtml",
-              "RelativeToolTip": "Views\\Home\\SanPhamTheoLoai.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T06:22:08.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DanhMucSanPham.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "RelativeDocumentMoniker": "Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "RelativeToolTip": "Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T08:35:56.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:09:46.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SuaSanPham.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\SuaSanPham.cshtml",
-              "RelativeDocumentMoniker": "Views\\HomeAdmin\\SuaSanPham.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\SuaSanPham.cshtml",
-              "RelativeToolTip": "Views\\HomeAdmin\\SuaSanPham.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T10:06:14.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ThemSanPhamMoi.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
-              "RelativeDocumentMoniker": "Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
-              "RelativeToolTip": "Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T09:32:43.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T17:07:53.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAA4AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T08:09:21.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AQIAAL4AAAAAAAAAAAAswM4AAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T08:18:01.194Z"
+              "WhenOpened": "2025-04-09T16:47:53.845Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "_LayoutOgani.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_LayoutOgani.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutOgani.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_LayoutOgani.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutOgani.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAEEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T08:22:50.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T17:07:56.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PartialSanPham.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\PartialSanPham.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\PartialSanPham.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\PartialSanPham.cshtml",
-              "RelativeToolTip": "Views\\Shared\\PartialSanPham.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T07:28:00.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T14:25:02.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "Title": "TChatLieu.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TChatLieu.cs",
+              "RelativeDocumentMoniker": "Models\\TChatLieu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TChatLieu.cs",
+              "RelativeToolTip": "Models\\TChatLieu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T14:25:07.378Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:32:33.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T08:11:05.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\HomeAdmin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\Index.cshtml",
-              "RelativeToolTip": "Views\\HomeAdmin\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T08:28:42.581Z"
+              "DocumentIndex": 16,
+              "Title": "TChiTietHdb.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TChiTietHdb.cs",
+              "RelativeDocumentMoniker": "Models\\TChiTietHdb.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TChiTietHdb.cs",
+              "RelativeToolTip": "Models\\TChiTietHdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:31:46.456Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "_LayoutIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_LayoutIndex.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutIndex.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_LayoutIndex.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutIndex.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T08:13:55.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "logo.png - PNG [119x50, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutOgani\\img\\logo.png",
-              "RelativeDocumentMoniker": "wwwroot\\LayoutOgani\\img\\logo.png",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutOgani\\img\\logo.png - PNG [119x50, 32 bit, PNG]",
-              "RelativeToolTip": "wwwroot\\LayoutOgani\\img\\logo.png - PNG [119x50, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-27T17:09:57.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "logonew1.png - PNG [120x60, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutOgani\\img\\logonew1.png",
-              "RelativeDocumentMoniker": "wwwroot\\LayoutOgani\\img\\logonew1.png",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutOgani\\img\\logonew1.png - PNG [120x60, 32 bit, PNG]",
-              "RelativeToolTip": "wwwroot\\LayoutOgani\\img\\logonew1.png - PNG [120x60, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-27T17:37:14.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "LUGGAGE.png - PNG [170x90, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutOgani\\img\\LUGGAGE.png",
-              "RelativeDocumentMoniker": "wwwroot\\LayoutOgani\\img\\LUGGAGE.png",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutOgani\\img\\LUGGAGE.png - PNG [170x90, 32 bit, PNG]",
-              "RelativeToolTip": "wwwroot\\LayoutOgani\\img\\LUGGAGE.png - PNG [170x90, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-27T17:42:55.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "cart-1.jpg - Bitmap [101x100, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutOgani\\img\\cart\\cart-1.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\LayoutOgani\\img\\cart\\cart-1.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutOgani\\img\\cart\\cart-1.jpg - Bitmap [101x100, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\LayoutOgani\\img\\cart\\cart-1.jpg - Bitmap [101x100, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-27T16:46:35.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T08:42:42.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ChiTietSanPham.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\ChiTietSanPham.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\ChiTietSanPham.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\ChiTietSanPham.cshtml",
-              "RelativeToolTip": "Views\\Home\\ChiTietSanPham.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T06:48:52.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Access\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Access\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Access\\Login.cshtml",
-              "RelativeToolTip": "Views\\Access\\Login.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T14:43:06.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "blog-1.jpg - Bitmap [370x266, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutOgani\\img\\blog\\blog-1.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\LayoutOgani\\img\\blog\\blog-1.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutOgani\\img\\blog\\blog-1.jpg - Bitmap [370x266, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\LayoutOgani\\img\\blog\\blog-1.jpg - Bitmap [370x266, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-27T16:46:19.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutAdmin\\index.html",
-              "RelativeDocumentMoniker": "wwwroot\\LayoutAdmin\\index.html",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutAdmin\\index.html",
-              "RelativeToolTip": "wwwroot\\LayoutAdmin\\index.html",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-27T15:02:00.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-26T09:16:59.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T16:45:17.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-27T15:18:14.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-26T15:29:23.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -717,93 +402,561 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T14:54:04.66Z"
+              "WhenOpened": "2025-04-09T16:31:45.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T16:37:22.636Z"
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T16:28:28.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Authentication.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\Authentication\\Authentication.cs",
-              "RelativeDocumentMoniker": "Models\\Authentication\\Authentication.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\Authentication\\Authentication.cs",
-              "RelativeToolTip": "Models\\Authentication\\Authentication.cs",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:10:19.273Z"
+              "WhenOpened": "2025-04-09T16:28:18.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T16:18:03.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T16:18:02.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T16:18:01.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T16:18:00.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TNhanVien.cs",
+              "RelativeDocumentMoniker": "Models\\TNhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TNhanVien.cs",
+              "RelativeToolTip": "Models\\TNhanVien.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:14:09.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TMauSac.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TMauSac.cs",
+              "RelativeDocumentMoniker": "Models\\TMauSac.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TMauSac.cs",
+              "RelativeToolTip": "Models\\TMauSac.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:08:49.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PartialSanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\PartialSanPham.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\PartialSanPham.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\PartialSanPham.cshtml",
+              "RelativeToolTip": "Views\\Shared\\PartialSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T16:10:27.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TChiTietSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TChiTietSanPham.cs",
+              "RelativeDocumentMoniker": "Models\\TChiTietSanPham.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TChiTietSanPham.cs",
+              "RelativeToolTip": "Models\\TChiTietSanPham.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:01:42.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TLoaiSp.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TLoaiSp.cs",
+              "RelativeDocumentMoniker": "Models\\TLoaiSp.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TLoaiSp.cs",
+              "RelativeToolTip": "Models\\TLoaiSp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:43:15.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TKichThuoc.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TKichThuoc.cs",
+              "RelativeDocumentMoniker": "Models\\TKichThuoc.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TKichThuoc.cs",
+              "RelativeToolTip": "Models\\TKichThuoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:11:12.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "Controllers\\ProductAPIController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:28:34.375Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
-              "Title": "TQuocGium.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TQuocGium.cs",
-              "RelativeDocumentMoniker": "Models\\TQuocGium.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TQuocGium.cs",
-              "RelativeToolTip": "Models\\TQuocGium.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:40:59.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "blank-page.html",
-              "DocumentMoniker": "E:\\Downloads\\PurpleAdmin-Free-Admin-Template-master\\pages\\samples\\blank-page.html",
-              "ToolTip": "E:\\Downloads\\PurpleAdmin-Free-Admin-Template-master\\pages\\samples\\blank-page.html",
-              "ViewState": "AgIAABABAAAAAAAAAAAYwB4BAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-26T08:20:24.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "LoaiSpRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Repository\\LoaiSpRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\LoaiSpRepository.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Repository\\LoaiSpRepository.cs",
-              "RelativeToolTip": "Repository\\LoaiSpRepository.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T16:30:29.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "ILoaiSpRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Repository\\ILoaiSpRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ILoaiSpRepository.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Repository\\ILoaiSpRepository.cs",
-              "RelativeToolTip": "Repository\\ILoaiSpRepository.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T16:30:27.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "shop-details.html",
-              "DocumentMoniker": "E:\\Downloads\\ogani-master\\shop-details.html",
-              "ToolTip": "E:\\Downloads\\ogani-master\\shop-details.html",
-              "ViewState": "AgIAAOMAAAAAAAAAAABRwPIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-26T06:57:57.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
               "Title": "LoaiSpMenuViewComponents.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ViewComponents\\LoaiSpMenuViewComponents.cs",
               "RelativeDocumentMoniker": "ViewComponents\\LoaiSpMenuViewComponents.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ViewComponents\\LoaiSpMenuViewComponents.cs",
               "RelativeToolTip": "ViewComponents\\LoaiSpMenuViewComponents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T16:31:06.592Z"
+              "WhenOpened": "2025-04-09T13:17:53.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ViewModels\\CartItem.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CartItem.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ViewModels\\CartItem.cs",
+              "RelativeToolTip": "ViewModels\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:15:52.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ViewModels\\SanPham.cs",
+              "RelativeDocumentMoniker": "ViewModels\\SanPham.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ViewModels\\SanPham.cs",
+              "RelativeToolTip": "ViewModels\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:17:47.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TAnhChiTietSp.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TAnhChiTietSp.cs",
+              "RelativeDocumentMoniker": "Models\\TAnhChiTietSp.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TAnhChiTietSp.cs",
+              "RelativeToolTip": "Models\\TAnhChiTietSp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:15:55.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HomeProductDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ViewModels\\HomeProductDetailViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeProductDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\ViewModels\\HomeProductDetailViewModel.cs",
+              "RelativeToolTip": "ViewModels\\HomeProductDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:14:06.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Cart\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Cart\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T11:14:31.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Cart\\Blog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Cart\\Blog.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Blog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T11:03:18.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T10:55:46.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ThemSanPhamMoi.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeDocumentMoniker": "Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeToolTip": "Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T10:51:21.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SuaSanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "RelativeDocumentMoniker": "Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "RelativeToolTip": "Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T10:51:21.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "materialdesignicons.min.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+              "RelativeToolTip": "wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-09T10:48:28.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QlbanVaLiContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\QlbanVaLiContext.cs",
+              "RelativeDocumentMoniker": "Models\\QlbanVaLiContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\QlbanVaLiContext.cs",
+              "RelativeToolTip": "Models\\QlbanVaLiContext.cs",
+              "ViewState": "AQIAAN0BAAAAAAAAAAAAAEEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:40:16.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DanhSachCheckout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\DanhSachCheckout.cshtml",
+              "RelativeDocumentMoniker": "Views\\HomeAdmin\\DanhSachCheckout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\DanhSachCheckout.cshtml",
+              "RelativeToolTip": "Views\\HomeAdmin\\DanhSachCheckout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T10:29:05.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAG8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T10:25:05.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T10:24:59.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\Checkout.cs",
+              "RelativeDocumentMoniker": "Models\\Checkout.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\Checkout.cs",
+              "RelativeToolTip": "Models\\Checkout.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:23:53.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DanhMucSanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeDocumentMoniker": "Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeToolTip": "Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T10:23:40.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DanhSachNguoiDung.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\DanhSachNguoiDung.cshtml",
+              "RelativeDocumentMoniker": "Views\\HomeAdmin\\DanhSachNguoiDung.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\HomeAdmin\\DanhSachNguoiDung.cshtml",
+              "RelativeToolTip": "Views\\HomeAdmin\\DanhSachNguoiDung.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T10:23:37.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:54:03.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:44:01.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAnwEAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:41:41.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutOgani\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\LayoutOgani\\css\\style.css",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\wwwroot\\LayoutOgani\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\LayoutOgani\\css\\style.css",
+              "ViewState": "AQIAAHcKAAAAAAAAAAAAALkKAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-09T09:49:45.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Controllers\\AccessController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:43:53.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:43:53.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAnwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:43:50.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TUser.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TUser.cs",
+              "RelativeDocumentMoniker": "Models\\TUser.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TUser.cs",
+              "RelativeToolTip": "Models\\TUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:40:57.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProductDetail.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProductDetail.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAADgvyAAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T08:56:18.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ChiTietSanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\ChiTietSanPham.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ChiTietSanPham.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Home\\ChiTietSanPham.cshtml",
+              "RelativeToolTip": "Views\\Home\\ChiTietSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T08:56:14.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TDanhMucSp.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TDanhMucSp.cs",
+              "RelativeDocumentMoniker": "Models\\TDanhMucSp.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Models\\TDanhMucSp.cs",
+              "RelativeToolTip": "Models\\TDanhMucSp.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:50:16.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:50:06.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T08:49:47.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_LayoutOgani.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutOgani.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutOgani.cshtml",
+              "ViewState": "AQIAACkBAAAAAAAAAADwv0sAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T08:48:10.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\QLbanVali\\MVC-dotnet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T08:48:02.867Z"
             }
           ]
         }

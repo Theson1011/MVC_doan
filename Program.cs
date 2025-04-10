@@ -25,7 +25,7 @@ namespace ThuchanhMVC
                 options.Cookie.HttpOnly = true;
                 options.Cookie.IsEssential = true;
             });
-
+            builder.Services.AddHttpClient();
 
             var app = builder.Build();
 
@@ -37,7 +37,7 @@ namespace ThuchanhMVC
 				app.UseHsts();
 			}
 
-
+            
             app.UseSession();
 
             app.UseHttpsRedirection();

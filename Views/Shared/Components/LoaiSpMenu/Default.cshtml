@@ -9,9 +9,8 @@
         <ul>
             @foreach (var item in Model)
             {
-                var getUrl = "https://localhost:7217/api/productapi/" + item.MaLoai;
-                <li><a style="cursor:pointer" onclick="showProductByCategory('@getUrl')">@item.Loai</a></li>
-
+                
+                <li><a asp-controller="Home" asp-action="SanPhamTheoLoai" asp-route-maloai="@item.MaLoai">@item.Loai</a></li>
 
 @*                 <li><a asp-controller="Home" asp-action="SanPhamTheoLoai" asp-route-maloai="@item.MaLoai">@item.Loai</a></li>
  *@

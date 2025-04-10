@@ -15,6 +15,8 @@ public partial class QlbanVaLiContext : DbContext
     {
     }
 
+    public virtual DbSet<Checkout> Checkouts { get; set; }
+
     public virtual DbSet<TAnhChiTietSp> TAnhChiTietSps { get; set; }
 
     public virtual DbSet<TAnhSp> TAnhSps { get; set; }
@@ -49,10 +51,29 @@ public partial class QlbanVaLiContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=LAPTOP-0CSOM6F0\\SQLEXPRESS;Initial Catalog=QLBanVaLi;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False");
+        => optionsBuilder.UseSqlServer("Server=LAPTOP-0CSOM6F0\\SQLEXPRESS;Database=QLBanVaLi;Trusted_Connection=True;TrustServerCertificate=True;MultipleActiveResultSets=true;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<Checkout>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Checkout__3214EC07349DE489");
+
+            entity.ToTable("Checkout");
+
+            entity.Property(e => e.Address).HasMaxLength(255);
+            entity.Property(e => e.Email).HasMaxLength(255);
+            entity.Property(e => e.PaymentDate)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime")
+                .HasColumnName("Payment_Date");
+            entity.Property(e => e.PhoneNumber)
+                .HasMaxLength(20)
+                .HasColumnName("Phone_Number");
+            entity.Property(e => e.Total).HasColumnType("decimal(18, 2)");
+            entity.Property(e => e.Username).HasMaxLength(100);
+        });
+
         modelBuilder.Entity<TAnhChiTietSp>(entity =>
         {
             entity.HasKey(e => new { e.MaChiTietSp, e.TenFileAnh });
@@ -201,8 +222,7 @@ public partial class QlbanVaLiContext : DbContext
                 .HasMaxLength(100)
                 .IsUnicode(false)
                 .IsFixedLength();
-            entity.Property(e => e.GiaLonNhat).HasColumnType("money");
-            entity.Property(e => e.GiaNhoNhat).HasColumnType("money");
+            entity.Property(e => e.DonGia).HasColumnType("money");
             entity.Property(e => e.GioiThieuSp)
                 .HasMaxLength(255)
                 .HasColumnName("GioiThieuSP");
@@ -471,11 +491,20 @@ public partial class QlbanVaLiContext : DbContext
                 .IsUnicode(false)
                 .IsFixedLength()
                 .HasColumnName("username");
+            entity.Property(e => e.Address)
+                .HasMaxLength(500)
+                .HasColumnName("address");
+            entity.Property(e => e.Email)
+                .HasMaxLength(255)
+                .HasColumnName("email");
             entity.Property(e => e.Password)
                 .HasMaxLength(256)
                 .IsUnicode(false)
                 .IsFixedLength()
                 .HasColumnName("password");
+            entity.Property(e => e.PhoneNumber)
+                .HasMaxLength(20)
+                .HasColumnName("phone_number");
         });
 
         OnModelCreatingPartial(modelBuilder);

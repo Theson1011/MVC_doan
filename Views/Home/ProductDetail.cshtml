@@ -1,27 +1,21 @@
 ﻿
+@model ThuchanhMVC.ViewModels.HomeProductDetailViewModel
 @{
     ViewData["Title"] = "ProductDetail";
     Layout = "~/Views/Shared/_LayoutOgani.cshtml";
 }
-@model ThuchanhMVC.ViewModels.HomeProductDetailViewModel
+
 
 <!-- Product Details Section Begin -->
+
 <section class="product-details spad">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6">
                 <div class="product__details__pic">
                     <div class="product__details__pic__item">
-                        @if (Model?.danhMucSp?.AnhDaiDien != null)
-                        {
-                            <img class="product__details__pic__item--large"
-                                 src="@Url.Content("../ProductsImages/Images/" + Model.danhMucSp.AnhDaiDien)" alt="">
-                        }
-                        else
-                        {
-                            <p>Hình ảnh không có sẵn</p>
-                        }
-
+                        <img class="product__details__pic__item--large"
+                             src="@Url.Content("../ProductsImages/Images/"+Model.danhMucSp.AnhDaiDien)" alt="">
                     </div>
                     <div class="product__details__pic__slider owl-carousel">
                         @foreach (var image in Model.anhSps)
@@ -35,27 +29,22 @@
             <div class="col-lg-6 col-md-6">
                 <div class="product__details__text">
                     <h3>@Model.danhMucSp.TenSp</h3>
-                    <div class="product__details__rating">
-                        <i class="fa fa-star"></i>
-                        <i class="fa fa-star"></i>
-                        <i class="fa fa-star"></i>
-                        <i class="fa fa-star"></i>
-                        <i class="fa fa-star-half-o"></i>
-                        <span>(18 reviews)</span>
-                    </div>
-                    <div class="product__details__price">@Model.danhMucSp.GiaLonNhat</div>
+
+                    <div class="product__details__price">@Model.danhMucSp.DonGia.ToString("C2", new System.Globalization.CultureInfo("en-US"))</div>
                     <p>
                         @Model.danhMucSp.GioiThieuSp
                     </p>
+                    <form asp-action="AddToCart" asp-controller="Cart" asp-route-id="@Model.danhMucSp.MaSp">
                     <div class="product__details__quantity">
                         <div class="quantity">
                             <div class="pro-qty">
-                                <input type="text" value="1">
+                                <input type="text" value="1" name="quantity">
                             </div>
                         </div>
                     </div>
-                    <a href="#" class="primary-btn">ADD TO CARD</a>
-                    <a href="#" class="heart-icon"><span class="icon_heart_alt"></span></a>
+          
+                        <button type="submit"  class="primary-btn">ADD TO CARD</button>
+                    </form>
                     <ul>
                         <li><b>Availability</b> <span>In Stock</span></li>
                         <li><b>Shipping</b> <span>01 day shipping. <samp>Free pickup today</samp></span></li>

@@ -39,9 +39,7 @@ public partial class TDanhMucSp
 
     public string? AnhDaiDien { get; set; }
 
-    public decimal? GiaNhoNhat { get; set; }
-
-    public decimal? GiaLonNhat { get; set; }
+    public decimal DonGia { get; set; }
 
     public virtual TChatLieu? MaChatLieuNavigation { get; set; }
 
