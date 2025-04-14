@@ -24,37 +24,38 @@
                                         <th></th>
                                     </tr>
                                 </thead>
-                                <tbody>
 
-                                        <tr>
-                                            <td class="shoping__cart__item">
-                                                <img style="height: 70px; width: 50px" src="~/ProductsImages/Images/@item.anhSps" alt="@item.TenSp">
-                                                <a asp-action="ProductDetail" asp-controller="HangHoa" asp-route-id="@item.MaSp">
-                                                    @item.TenSp
-                                                </a>
-                                            </td>
-                                            <td class="shoping__cart__price">
-                                                <p>@item.DonGia.ToString("C2", new System.Globalization.CultureInfo("en-US"))</p>
-                                            </td>
-                                            <td class="shoping__cart__quantity">
-                                                <div class="quantity">
-                                                    <div class="pro-qty">
-                                                    <input type="text" name="quantity" value="@item.SoLuong">
+                                    <tbody>
+
+                                            <tr>
+                                                <td class="shoping__cart__item">
+                                                    <img style="height: 70px; width: 50px" src="~/ProductsImages/Images/@item.anhSps" alt="@item.TenSp">
+                                                    <a asp-action="ProductDetail" asp-controller="HangHoa" asp-route-id="@item.MaSp">
+                                                        @item.TenSp
+                                                    </a>
+                                                </td>
+                                                <td class="shoping__cart__price">
+                                                    <p>@item.DonGia.ToString("C2", new System.Globalization.CultureInfo("en-US"))</p>
+                                                </td>
+                                                <td class="shoping__cart__quantity">
+                                                    <div class="quantity">
+                                                        <div class="pro-qty">
+                                                        <input type="text" name="quantity" value="@item.SoLuong">
                                      
+                                                        </div>
                                                     </div>
-                                                </div>
-                                            </td>
-                                            <td class="shoping__cart__total">
-                                                @item.ThanhTien.ToString("C2", new System.Globalization.CultureInfo("en-US"))
-                                            </td>
-                                            <td class="shoping__cart__item__close">
-                                                <a asp-action="RemoveCart" asp-controller="Cart" asp-route-id="@item.MaSp">
-                                                    <i class="fa fa-times text-danger"></i>
-                                                </a>
-                                            </td>
-                                        </tr>
+                                                </td>
+                                                <td class="shoping__cart__total">
+                                                    @item.ThanhTien.ToString("C2", new System.Globalization.CultureInfo("en-US"))
+                                                </td>
+                                                <td class="shoping__cart__item__close">
+                                                    <a asp-action="RemoveCart" asp-controller="Cart" asp-route-id="@item.MaSp">
+                                                        <i class="fa fa-times text-danger"></i>
+                                                    </a>
+                                                </td>
+                                            </tr>
 
-                                </tbody>
+                                    </tbody>
                             </table>
 
                         </div>

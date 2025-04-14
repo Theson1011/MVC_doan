@@ -22,6 +22,50 @@ namespace ThuchanhMVC.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("ThuchanhMVC.Models.Checkout", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Address")
+                        .IsRequired()
+                        .HasMaxLength(255)
+                        .HasColumnType("nvarchar(255)");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasMaxLength(255)
+                        .HasColumnType("nvarchar(255)");
+
+                    b.Property<DateTime?>("PaymentDate")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("datetime")
+                        .HasColumnName("Payment_Date")
+                        .HasDefaultValueSql("(getdate())");
+
+                    b.Property<string>("PhoneNumber")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)")
+                        .HasColumnName("Phone_Number");
+
+                    b.Property<decimal>("Total")
+                        .HasColumnType("decimal(18, 2)");
+
+                    b.Property<string>("Username")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.HasKey("Id")
+                        .HasName("PK__Checkout__3214EC07349DE489");
+
+                    b.ToTable("Checkout", (string)null);
+                });
+
             modelBuilder.Entity("ThuchanhMVC.Models.TAnhChiTietSp", b =>
                 {
                     b.Property<string>("MaChiTietSp")
@@ -205,13 +249,7 @@ namespace ThuchanhMVC.Migrations
                     b.Property<double?>("DoNoi")
                         .HasColumnType("float");
 
-                    b.Property<double?>("DonGia")
-                        .HasColumnType("float");
-
-                    b.Property<decimal?>("GiaLonNhat")
-                        .HasColumnType("money");
-
-                    b.Property<decimal?>("GiaNhoNhat")
+                    b.Property<decimal>("DonGia")
                         .HasColumnType("money");
 
                     b.Property<string>("GioiThieuSp")
@@ -585,20 +623,14 @@ namespace ThuchanhMVC.Migrations
                         .IsFixedLength();
 
                     b.Property<string>("Address")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .IsUnicode(false)
-                        .HasColumnType("char(100)")
-                        .HasColumnName("address")
-                        .IsFixedLength();
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)")
+                        .HasColumnName("address");
 
                     b.Property<string>("Email")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .IsUnicode(false)
-                        .HasColumnType("char(100)")
-                        .HasColumnName("email")
-                        .IsFixedLength();
+                        .HasMaxLength(255)
+                        .HasColumnType("nvarchar(255)")
+                        .HasColumnName("email");
 
                     b.Property<byte?>("LoaiUser")
                         .HasColumnType("tinyint");
@@ -612,12 +644,9 @@ namespace ThuchanhMVC.Migrations
                         .IsFixedLength();
 
                     b.Property<string>("PhoneNumber")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .IsUnicode(false)
-                        .HasColumnType("char(100)")
-                        .HasColumnName("phone_number")
-                        .IsFixedLength();
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)")
+                        .HasColumnName("phone_number");
 
                     b.HasKey("Username");
 
