@@ -8,7 +8,7 @@
     <meta name="keywords" content="Ogani, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Ogani | Template</title>
+    <title>Luggage Bros</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap" rel="stylesheet">
@@ -42,46 +42,47 @@
     </div>
 </div>
 
-<
 <script>
     function toggleChat() {
         const chatContainer = document.getElementById("chat-container");
         chatContainer.classList.toggle("show");
     }
 
-    async function sendMessage() {
+        async function sendMessage() {
         let message = document.getElementById("userInput").value.trim();
         if (!message) return;
 
+        console.log(message);
+
         const chatbox = document.getElementById("chatbox");
+        // Hiển thị tin nhắn của người dùng
         chatbox.innerHTML += `<div class="user-msg"><b>Bạn:</b> ${message}</div>`;
         document.getElementById("userInput").value = "";
 
         try {
-            // Show loading indicator
+            // Hiển thị loading
             chatbox.innerHTML += `<div id="loading-msg" class="ai-msg"><b>AI:</b> Đang tìm kiếm...</div>`;
-            
-            let response = await fetch('/Chat/GetChatResponse', {
+
+            let response = await fetch('/Chat/GetChatbotResponse', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ message: message })
             });
-
-            // Remove loading indicator
+            
+            // Xoá loading
             const loadingMsg = document.getElementById("loading-msg");
             if (loadingMsg) loadingMsg.remove();
 
             let data = await response.json();
 
-            // Check if it's a budget-based product recommendation
+            // Nếu là gợi ý sản phẩm theo ngân sách
             if (data.isBudgetResponse) {
                 let productsHtml = '';
-                
                 if (data.products && data.products.length > 0) {
                     data.products.forEach(product => {
-                        // Create relative URL for image
-                        let imgUrl = product.imageUrl ? `/ProductsImages/Images/${product.imageUrl}` : '/images/no-image.jpg';
-                        
+                        let imgUrl = product.imageUrl
+                            ? `/ProductsImages/Images/${product.imageUrl}`
+                            : '/images/no-image.jpg';
                         productsHtml += `
                             <div class="product-recommendation">
                                 <div class="product-info">
@@ -92,7 +93,6 @@
                         `;
                     });
                 }
-                
                 chatbox.innerHTML += `
                     <div class="ai-msg">
                         <b>AI:</b> ${data.message}
@@ -101,11 +101,13 @@
                         </div>
                     </div>
                 `;
-            } else if (data.choices && data.choices.length > 0) {
-                // Standard GPT response
-                let responseText = data.choices[0].message.content;
-                chatbox.innerHTML += `<div class="ai-msg"><b>AI:</b> ${responseText}</div>`;
-            } else {
+            }
+            // Nếu controller trả về reply chung
+            else if (data.reply) {
+                chatbox.innerHTML += `<div class="ai-msg"><b>AI:</b> ${data.reply}</div>`;
+            }
+            // Dự phòng
+            else {
                 chatbox.innerHTML += `<div class="ai-msg"><b>AI:</b> Xin lỗi, tôi không thể xử lý yêu cầu của bạn.</div>`;
             }
         } catch (error) {
@@ -113,6 +115,7 @@
             chatbox.innerHTML += `<div class="ai-msg"><b>AI:</b> Có lỗi xảy ra, vui lòng thử lại!</div>`;
         }
 
+        // Cuộn xuống cuối chat
         chatbox.scrollTop = chatbox.scrollHeight;
     }
 </script>
@@ -351,8 +354,8 @@
                     </div>
                     <div class="hero__item set-bg" data-setbg="../LayoutOgani/img/hero/banner_vali3.png">
                         <div class="hero__text">
-                            <span>FRUIT FRESH</span>
-                            <h2>Vegetable <br />100% Organic</h2>
+                            <span>Travel</span>
+                            <h2>Customer <br />100% Satisfied</h2>
                             <p>Free Pickup and Delivery Available</p>
                             <a href="#" class="primary-btn">SHOP NOW</a>
                         </div>
@@ -398,45 +401,47 @@
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="blog__item">
                         <div class="blog__item__pic">
-                            <img src="../LayoutOgani/img/blog/blog-1.jpg" alt="">
+                            <img src="../LayoutOgani/img/blog/Blog11.jpg" alt="">
                         </div>
                         <div class="blog__item__text">
                             <ul>
-                                <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
+                                <li><i class="fa fa-calendar-o"></i> September 2,2023</li>
                                 <li><i class="fa fa-comment-o"></i> 5</li>
                             </ul>
-                            <h5><a href="#">Cooking tips make cooking simple</a></h5>
-                            <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                            <h5><a href="#">Husky Sledding in Rovaniemi: Dog Wellbeing, Best Tours & What to Expect</a></h5>
+                            <p>By Jurga </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="blog__item">
                         <div class="blog__item__pic">
-                            <img src="../LayoutOgani/img/blog/blog-2.jpg" alt="">
+                            <img src="../LayoutOgani/img/blog/Blog12.jpg" alt="">
                         </div>
                         <div class="blog__item__text">
                             <ul>
-                                <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
+                                <li><i class="fa fa-calendar-o"></i> May 4,2014</li>
                                 <li><i class="fa fa-comment-o"></i> 5</li>
                             </ul>
-                            <h5><a href="#">6 ways to prepare breakfast for 30</a></h5>
-                            <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                            <h5><a href="#">Rovaniemi in March: What It’s Really Like, Weather & Seasonal Tips</a></h5>
+                            <p>
+                                By Jurga
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="blog__item">
                         <div class="blog__item__pic">
-                            <img src="../LayoutOgani/img/blog/blog-3.jpg" alt="">
+                            <img src="../LayoutOgani/img/blog/Blog13.jpg" alt="">
                         </div>
                         <div class="blog__item__text">
                             <ul>
-                                <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
+                                <li><i class="fa fa-calendar-o"></i> January 1,2025</li>
                                 <li><i class="fa fa-comment-o"></i> 5</li>
                             </ul>
-                            <h5><a href="#">Visit the clean farm in the US</a></h5>
-                            <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                            <h5><a href="#">5 Great Reasons to Visit Schynige Platte (+2025 Info & Tips for Best Views)</a></h5>
+                            <p>By Jurga </p>
                         </div>
                     </div>
                 </div>
